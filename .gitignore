@@ -43,3 +43,12 @@ testem.log
 # System Files
 .DS_Store
 Thumbs.db
+
+/public
+.
+app.js
+app.js.map
+*/*.js
+*/*.js.map
+product
+AuthKey_927P6483KB.p8
